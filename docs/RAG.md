@@ -9,9 +9,6 @@
 - [Implementing RAG](#implementing-rag)
   - [Using OpenAI](#using-openai)
   - [Using Hugging Face Transformers](#using-hugging-face-transformers)
-- [Examples](#examples)
-  - [Example with OpenAI](#example-with-openai)
-  - [Example with Hugging Face Transformers](#example-with-hugging-face-transformers)
 - [Best Practices](#best-practices)
 
 ## Introduction
